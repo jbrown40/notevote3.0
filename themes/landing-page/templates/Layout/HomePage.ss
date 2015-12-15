@@ -11,7 +11,7 @@
                 </div>
                 $Form
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="$ThemeDir/img/screenshots/NoteVote2-02.png" height="400" width="300" alt="">
+                    <img class="img-responsive" src="$ThemeDir/img/iphone6/NoteVote2-02.png" height="400" width="300" alt="">
                 </div>
             </div>
 
@@ -33,7 +33,7 @@
                     <p class="lead">Turn your 2D designs into high quality, 3D product shots in seconds using free Photoshop actions by <a target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit their website to download some of their awesome, free photoshop actions!</p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="$ThemeDir/img/screenshots/NoteVote7-07.png" height="400" width="300" alt="">
+                    <img class="img-responsive" src="$ThemeDir/img/iphone6/NoteVote7-07.png" height="400" width="300" alt="">
                 </div>
             </div>
 
@@ -55,7 +55,7 @@
                     <p class="lead">This template features the 'Lato' font, part of the <a target="_blank" href="http://www.google.com/fonts">Google Web Font library</a>, as well as <a target="_blank" href="http://fontawesome.io">icons from Font Awesome</a>.</p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="$ThemeDir/img/screenshots/slide6-05.png" height="400" width="300" alt="">
+                    <img class="img-responsive" src="$ThemeDir/img/iphone6/slide6-05.png" height="400" width="300" alt="">
                 </div>
             </div>
 
